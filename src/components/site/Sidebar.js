@@ -15,7 +15,7 @@ const Sidebar = () => {
         <div className="sidebar">
             <div className="sidebar-list-styling">
                 <ul className="sidebar-list list-unstyled">
-                    <li><Link to="/home">Home</Link></li>
+                    <li><Link to="/Events_app">Home</Link></li>
                     <li><Link to="/maps">Google Maps</Link></li>
                     <li><Link to="/events">Local Events</Link></li>
                     <li><Link to="/food">Local Restaurants</Link></li>
