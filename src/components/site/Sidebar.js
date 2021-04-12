@@ -24,7 +24,7 @@ const Sidebar = () => {
             </div>
             <div className="sidebar-route">
                 <Switch>
-                    <Route exact path="/"><Home /></Route>
+                    <Route exact path="/Events_app"><Home /></Route>
                     <Route exact path="/home"><Home /></Route>
                     <Route exact path="/maps"><Maps /></Route>
                     <Route exact path="/events"><Events /></Route>
